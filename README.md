@@ -4,4 +4,13 @@ In this notebook, we explore the nobel prize data set for the month of May Chall
 [_In case you’re unable to see the atoti visualizations in GitHub, try viewing the notebook in 
 [nbviewer](https://nbviewer.org/github/deadex-ng/nobel-prize/blob/main/nobel_analysis.ipynb)._]
 
+# In the noebook, we load the data in atoti
+We:
+
+   * load the data in atoti
+   * create a data cube
+   * define heirarchies, measures and levels.
+   * analyze the data
+
+
 
